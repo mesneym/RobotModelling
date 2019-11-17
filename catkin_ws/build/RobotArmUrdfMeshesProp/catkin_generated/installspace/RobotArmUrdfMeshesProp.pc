@@ -1,0 +1,8 @@
+prefix=/home/ak/RobotModelling/catkin_ws/install
+
+Name: RobotArmUrdfMeshesProp
+Description: Description of RobotArmUrdfMeshesProp
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/ak/RobotModelling/catkin_ws/install/lib 
+Requires: 
